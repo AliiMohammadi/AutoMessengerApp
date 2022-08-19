@@ -1,0 +1,11 @@
+D:\Developing\Application Projects\Auto Game Messenger Application\Auto Game Messenger Application\bin\Debug\Auto Game Messenger Application.exe.config
+D:\Developing\Application Projects\Auto Game Messenger Application\Auto Game Messenger Application\bin\Debug\Auto Game Messenger Application.exe
+D:\Developing\Application Projects\Auto Game Messenger Application\Auto Game Messenger Application\bin\Debug\Auto Game Messenger Application.pdb
+D:\Developing\Application Projects\Auto Game Messenger Application\Auto Game Messenger Application\obj\Debug\Auto Game Messenger Application.csproj.AssemblyReference.cache
+D:\Developing\Application Projects\Auto Game Messenger Application\Auto Game Messenger Application\obj\Debug\Auto Game Messenger Application.csproj.SuggestedBindingRedirects.cache
+D:\Developing\Application Projects\Auto Game Messenger Application\Auto Game Messenger Application\obj\Debug\Auto_Game_Messenger_Application.MainForm.resources
+D:\Developing\Application Projects\Auto Game Messenger Application\Auto Game Messenger Application\obj\Debug\Auto_Game_Messenger_Application.Properties.Resources.resources
+D:\Developing\Application Projects\Auto Game Messenger Application\Auto Game Messenger Application\obj\Debug\Auto Game Messenger Application.csproj.GenerateResource.cache
+D:\Developing\Application Projects\Auto Game Messenger Application\Auto Game Messenger Application\obj\Debug\Auto Game Messenger Application.csproj.CoreCompileInputs.cache
+D:\Developing\Application Projects\Auto Game Messenger Application\Auto Game Messenger Application\obj\Debug\Auto Game Messenger Application.exe
+D:\Developing\Application Projects\Auto Game Messenger Application\Auto Game Messenger Application\obj\Debug\Auto Game Messenger Application.pdb
