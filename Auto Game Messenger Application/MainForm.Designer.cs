@@ -79,7 +79,6 @@
             this.textBox2.Size = new System.Drawing.Size(950, 20);
             this.textBox2.TabIndex = 2;
             this.textBox2.Text = "Assassinated.";
-
             // 
             // label3
             // 
@@ -97,7 +96,6 @@
             this.textBox3.Size = new System.Drawing.Size(950, 20);
             this.textBox3.TabIndex = 4;
             this.textBox3.Text = ":).";
-
             // 
             // label4
             // 
@@ -207,6 +205,7 @@
             this.Controls.Add(this.textBox1);
             this.Name = "MainForm";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.MainForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

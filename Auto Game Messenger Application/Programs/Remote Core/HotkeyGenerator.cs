@@ -4,7 +4,6 @@ using System.Windows.Forms;
 
 namespace Auto_Game_Messenger_Application
 {
-
     public sealed class KeyboardHook : IDisposable
     {
         // Registers a hot key with Windows.
@@ -13,6 +12,8 @@ namespace Auto_Game_Messenger_Application
         // Unregisters the hot key with Windows.
         [DllImport("user32.dll")]
         private static extern bool UnregisterHotKey(IntPtr hWnd, int id);
+
+        private int _currentId;
 
         /// <summary>
         /// Represents the window that is used internally to get the messages.
@@ -61,7 +62,6 @@ namespace Auto_Game_Messenger_Application
         }
 
         private Window _window = new Window();
-        private int _currentId;
 
         public KeyboardHook()
         {
@@ -106,7 +106,6 @@ namespace Auto_Game_Messenger_Application
         }
 
     }
-
     /// <summary>
     /// Event Args for the event that is fired after the hot key has been pressed.
     /// </summary>
@@ -131,7 +130,6 @@ namespace Auto_Game_Messenger_Application
             get { return _key; }
         }
     }
-
     /// <summary>
     /// The enumeration of possible modifiers.
     /// </summary>
